@@ -44,7 +44,7 @@ cypress-reactshop-tests/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/cypress-reactshop-tests.git
+git clone https://github.com/Artenes/cypress-reactshop-tests.git
 cd cypress-reactshop-tests
 ```
 
